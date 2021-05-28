@@ -2,7 +2,7 @@
 applications:
   - name: usaccess
     routes:
-      - route: ((ROUTE))
+      - route: identity-give-usaccess-((ENVIRONMENT_NAME)).apps.internal
     memory: ((MEMORY))
     instances: ((INSTANCES))
     buildpacks:
