@@ -1,0 +1,6 @@
+-r requirements.txt
+pre-commit
+git+git://github.com/psf/black@stable
+pylint
+bandit
+pytest

@@ -1,0 +1,11 @@
+---
+applications:
+  - name: usaccess
+    routes:
+      - route: ((ROUTE))
+    memory: ((MEMORY))
+    instances: ((INSTANCES))
+    buildpacks:
+      - python_buildpack
+    env:
+      DISABLE_COLLECTSTATIC: 1
