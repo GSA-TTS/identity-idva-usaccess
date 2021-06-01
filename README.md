@@ -1,5 +1,5 @@
-![Tests](https://github.com/18F/identity-give-usps/workflows/Unit-Tests/badge.svg)
-[![Maintainability](https://api.codeclimate.com/v1/badges/7a72205acec6d179707c/maintainability)](https://codeclimate.com/github/18F/identity-give-usps/maintainability)
+[![Deploy](https://github.com/18F/identity-give-usaccess/actions/workflows/deploy.yaml/badge.svg)](https://github.com/18F/identity-give-usaccess/actions/workflows/deploy.yaml)
+[![Maintainability](https://api.codeclimate.com/v1/badges/07ee25ee90bce9498322/maintainability)](https://codeclimate.com/github/18F/identity-give-usaccess/maintainability)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
