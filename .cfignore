@@ -1,0 +1,4 @@
+*.md
+.venv/
+usaccess/__pycache__/
+tests/__pycache__/

@@ -1,0 +1,11 @@
+---
+applications:
+  - name: usaccess
+    routes:
+      - route: identity-give-usaccess-((ENVIRONMENT_NAME)).apps.internal
+    memory: ((MEMORY))
+    instances: ((INSTANCES))
+    buildpacks:
+      - python_buildpack
+    env:
+      DISABLE_COLLECTSTATIC: 1
